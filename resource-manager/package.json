@@ -4,7 +4,8 @@
   "description": "Collection of resource manager samples.",
   "main": "index.js",
   "dependencies": {
-    "@google-cloud/resource-manager": "^4.3.0"
+    "@google-cloud/resource-manager": "^4.3.0",
+    "mocha": "^10.2.0"
   },
   "devDependencies": {},
   "scripts": {
